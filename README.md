@@ -1,5 +1,7 @@
 # ScalioProject
 
+This project has been built for Scal.io Hiring Process
+
 
 # Building the The Project
 First and only step, clone the repo:
